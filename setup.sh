@@ -1,2 +1,2 @@
 
-export PATH=$PATH:$(pwd)/utils
+export PATH=$PATH:$(pwd)/_utils

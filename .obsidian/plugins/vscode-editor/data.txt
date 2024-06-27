@@ -1,0 +1,26 @@
+{
+  "extensions": [
+    "",
+    "c",
+    "cc",
+    "code-workspace",
+    "css",
+    "h",
+    "html",
+    "js",
+    "json",
+    "rs",
+    "sh",
+    "toml",
+    "ts",
+    "txt"
+  ],
+  "folding": false,
+  "lineNumbers": false,
+  "wordWrap": false,
+  "minimap": true,
+  "semanticValidation": true,
+  "syntaxValidation": true,
+  "themeColor": "AUTO",
+  "fontSize": 16
+}

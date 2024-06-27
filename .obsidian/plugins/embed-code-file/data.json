@@ -1,0 +1,5 @@
+{
+  "includedLanguages": "c,cmake,cpp,rust,sh,toml,txt",
+  "titleBackgroundColor": "#00000020",
+  "titleFontColor": ""
+}
