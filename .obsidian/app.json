@@ -28,6 +28,6 @@
   ],
   "spellcheck": false,
   "showLineNumber": true,
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
