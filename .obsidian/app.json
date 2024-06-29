@@ -25,5 +25,7 @@
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
-  ]
+  ],
+  "spellcheck": false,
+  "showLineNumber": true
 }
