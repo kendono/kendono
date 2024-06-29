@@ -27,5 +27,7 @@
     "editor:configure-toolbar"
   ],
   "spellcheck": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }
