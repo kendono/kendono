@@ -1,19 +1,19 @@
 
-# Profile
+# Home: ko_kr
 
 - A
 - B
 - C
 - D
 - E
+	- exclusive
+		- [Exclusive: ko_kr](../exclusive/ko_kr/_.md)
 - F
 - G
 - H
 - I
 - J
 - K
-	- kannari
-		- [[kannari/_|神成にゃんこ]]
 - L
 - M
 - N

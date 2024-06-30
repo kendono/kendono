@@ -1,19 +1,19 @@
 
-# Profile
+# Home: ja_jp
 
 - A
 - B
 - C
 - D
 - E
+	- exclusive
+		- [Exclusive: ja_jp](../exclusive/ja_jp/_.md)
 - F
 - G
 - H
 - I
 - J
 - K
-	- kannari
-		- [[kannari/_|神成にゃんこ]]
 - L
 - M
 - N
