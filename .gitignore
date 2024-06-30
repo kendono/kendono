@@ -1,6 +1,7 @@
 
 /.obsidian/appearance.json
 /.obsidian/workspace*.json
-
-/.build
 /.trash
+
+**/.build
+**/target
