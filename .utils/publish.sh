@@ -1,2 +1,2 @@
 
-git rebase publish main
+git rebase main publish
