@@ -1,4 +1,5 @@
 
-cd ..
+git clone https://github.com/conan-io/conan .tools/conan
+git clone https://github.com/microsoft/vcpkg .tools/vcpkg
 
-git clone https://github.com/kendono/contents
+sh .tools/vcpkg/bootstrap-vcpkg.sh

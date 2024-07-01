@@ -1,0 +1,14 @@
+
+[package]
+name = "cargo"
+version = "0.1.0"
+edition = "2021"
+default-run = "_"
+
+[lib]
+name = "rs_lib"
+path = "_sources/rs/_.rs"
+
+[[bin]]
+name = "_"
+path = "_binaries/rs/_.rs"
