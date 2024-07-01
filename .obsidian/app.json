@@ -29,5 +29,8 @@
   "spellcheck": false,
   "showLineNumber": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "foldIndent": false,
+  "foldHeading": false,
+  "focusNewTab": false
 }
