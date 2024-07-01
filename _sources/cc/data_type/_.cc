@@ -1,5 +1,5 @@
 
-export module prelude.data_type:_;
+export module data_type:_;
 
 export import <cstdint>;
 
