@@ -3,5 +3,14 @@
   "explorer.sortOrderLexicographicOptions": "unicode",
   "files.exclude": {
     "**/Cargo.lock": true
+  },
+  "terminal.integrated.profiles.windows": {
+    "bash": {
+        "path": "C:\\Windows\\system32\\bash.exe",
+        "icon": "terminal-bash",
+        "args": [
+            "-l"
+        ]
+    }
   }
 }
