@@ -3,6 +3,7 @@
 /.obsidian/workspace*.json
 /.trash
 
+/.libraries
 /.tools
 
 **/.build
