@@ -8,7 +8,7 @@ default-run = "_"
 [lib]
 name = "rs_lib"
 path = "_sources/rs/_.rs"
-crate-type = ["rlib", "cdylib"]
+crate-type = ["lib", "cdylib"]
 
 [[bin]]
 name = "_"
