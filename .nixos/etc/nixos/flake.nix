@@ -1,5 +1,0 @@
-#
-# /etc/nixos/flake.nix
-#
-
-
