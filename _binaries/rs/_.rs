@@ -1,6 +1,6 @@
 
-use rs_lib::run;
+use rs_lib::rs_run;
 
 fn main() {
-  run();
+  rs_run();
 }
