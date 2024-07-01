@@ -2,4 +2,4 @@
 commit.sh $@
 
 git pull
-git push
+git push --all
