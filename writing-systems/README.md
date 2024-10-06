@@ -4,7 +4,7 @@
 - A
 - B
 - C
-	- Chinese Hanzi
+	- [Chinese Hanzi](chinese-hanzi/README.md)
 - D
 - E
 - F
@@ -14,7 +14,7 @@
 - J
 	- [Japanese Kanji](japanese-kanji/README.md)
 - K
-	- Korean Hanja
+	- [Korean Hanja](korean-hanja/README.md)
 - L
 - M
 - N
@@ -24,6 +24,7 @@
 - R
 - S
 - T
+	- [Taiwanese Hanzi](taiwanese-hanzi/README.md)
 - U
 - V
 - W

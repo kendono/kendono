@@ -1,6 +1,30 @@
 # Ken
 
-- `cjk-unified-ideographs`
+- A
+- B
+- C
 	- [CJK Unified Ideographs](cjk-unified-ideographs/README.md)
-- `writing-systems`
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
 	- [Writing Systems](writing-systems/README.md)
+- X
+- Y
+- Z
