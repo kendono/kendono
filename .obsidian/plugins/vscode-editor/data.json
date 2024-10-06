@@ -1,0 +1,14 @@
+{
+  "extensions": [
+    "",
+    "css"
+  ],
+  "folding": false,
+  "lineNumbers": false,
+  "wordWrap": false,
+  "minimap": true,
+  "semanticValidation": true,
+  "syntaxValidation": true,
+  "themeColor": "AUTO",
+  "fontSize": 12
+}
