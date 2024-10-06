@@ -1,33 +1,33 @@
 
 # Writing Systems
 
-- A
-- B
-- C
+- `A`
+- `B`
+- `C`
 	- [Chinese Hanzi](chinese-hanzi/README.md)
-- D
-- E
-- F
-- G
-- H
-- I
-- J
+- `D`
+- `E`
+- `F`
+- `G`
+- `H`
+- `I`
+- `J`
 	- [Japanese Kanji](japanese-kanji/README.md)
-- K
+- `K`
 	- [Korean Hanja](korean-hanja/README.md)
-- L
-- M
-- N
-- O
-- P
-- Q
-- R
-- S
-- T
+- `L`
+- `M`
+- `N`
+- `O`
+- `P`
+- `Q`
+- `R`
+- `S`
+- `T`
 	- [Taiwanese Hanzi](taiwanese-hanzi/README.md)
-- U
-- V
-- W
-- X
-- Y
-- Z
+- `U`
+- `V`
+- `W`
+- `X`
+- `Y`
+- `Z`

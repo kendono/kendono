@@ -1,7 +1,12 @@
 
 # CJK Unified Ideographs
 
-- [No Radical](no-radical/README.md)
+- Link to 214 radicals first.
+- Other glyphs don't have to be linked.
+
+## Index
+
+- [Radical None](radical-none/README.md)
 - [Radical Strokes 01](radical-strokes-01/README.md)
 - Radical Strokes 02
 - Radical Strokes 03

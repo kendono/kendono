@@ -1,5 +1,5 @@
 
-# No Radical
+# Radical None
 
 ## Strokes 01
 
