@@ -6,5 +6,8 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": ".obsidian/attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

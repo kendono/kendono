@@ -1,0 +1,32 @@
+
+# Writing Systems
+
+- A
+- B
+- C
+	- Chinese Hanzi
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+	- [Japanese Kanji](japanese-kanji/README.md)
+- K
+	- Korean Hanja
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
