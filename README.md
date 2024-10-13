@@ -1,21 +1,18 @@
+
 # Ken
 
 - `A`
-	- [Academic Disciplines](academic-disciplines/README.md)
 - `B`
 - `C`
-	- [Country Codes](country-codes/README.md)
 - `D`
 - `E`
 - `F`
-	- [Filename Extensions](filename-extensions/README.md)
 - `G`
 - `H`
 - `I`
 - `J`
 - `K`
 - `L`
-	- [Language Codes](language-codes/README.md)
 - `M`
 - `N`
 - `O`
@@ -24,11 +21,9 @@
 - `R`
 - `S`
 - `T`
-	- [Text Encoding](text-encoding/README.md)
 - `U`
 - `V`
 - `W`
-	- [Writing System Codes](writing-system-codes/README.md)
 - `X`
 - `Y`
 - `Z`
