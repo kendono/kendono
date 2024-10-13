@@ -5,3 +5,8 @@
   --link-external-decoration: none;
   --link-external-decoration-hover: none;
 }
+
+.external-link {
+  background-image: none;
+  padding-right: 0px;
+}
