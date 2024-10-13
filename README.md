@@ -1,18 +1,21 @@
 # Ken
 
 - `A`
+	- [Academic Disciplines](academic-disciplines/README.md)
 - `B`
 - `C`
-	- [CJK Unified Ideographs](cjk-unified-ideographs/README.md)
+	- [Country Codes](country-codes/README.md)
 - `D`
 - `E`
 - `F`
+	- [Filename Extensions](filename-extensions/README.md)
 - `G`
 - `H`
 - `I`
 - `J`
 - `K`
 - `L`
+	- [Language Codes](language-codes/README.md)
 - `M`
 - `N`
 - `O`
@@ -21,10 +24,11 @@
 - `R`
 - `S`
 - `T`
+	- [Text Encoding](text-encoding/README.md)
 - `U`
 - `V`
 - `W`
-	- [Writing Systems](writing-systems/README.md)
+	- [Writing System Codes](writing-system-codes/README.md)
 - `X`
 - `Y`
 - `Z`

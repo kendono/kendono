@@ -1,2 +1,0 @@
-
-# Taiwanese Hanzi

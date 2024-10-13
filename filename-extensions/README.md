@@ -1,0 +1,63 @@
+
+# Filename Extensions
+
+- `A`
+	- `asm`
+		- an assembly file
+- `B`
+	- `bin`
+		- a binary file (Unix)
+- `C`
+	- `c`
+		- C source file
+	- `cc`
+		- C++ source files, Unix style
+	- `cpp`
+		- C++ source files, Windows style
+	- `cxx`
+		- C++ source files
+- `D`
+- `E`
+	- `exe`
+		- an executable file (Windows)
+- `F`
+	- `fbx`
+		- FBX 3D model file
+- `G`
+- `H`
+	- `h`
+		- C header files
+	- `hh`
+		- C++ header files
+	- `hpp`
+		- C++ header files
+	- `hxx`
+		- C++ header files
+- `I`
+	- `ixx`
+		- C++ Interface files (Windows)
+- `J`
+- `K`
+- `L`
+- `M`
+	- `m`
+		- Objective-C source file
+	- `mm`
+		- Objective-C++ source file
+- `N`
+- `O`
+	- `obj`
+		- OBJ 3D model file
+		- a compiler object file
+- `P`
+- `Q`
+- `R`
+- `S`
+- `T`
+- `U`
+- `V`
+- `W`
+- `X`
+- `Y`
+- `Z`
+
