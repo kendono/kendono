@@ -25,3 +25,13 @@ If you are interested in, please check my contents.
 
 - `Language-First Approach`: [Homes](_homes/README.md)
 - `Contents-First Approach`: [Index](_index/README.md)
+
+## Publisher
+
+This repository also be planned to be a publisher.
+
+## Publications
+
+https://kendono.vercel.app
+
+The target website is the link above.
