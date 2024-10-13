@@ -23,5 +23,5 @@ If you are interested in, please check my contents.
 
 ## Choose An Approach
 
-- Language-First Approach: [Homes](_homes/README.md)
-- Contents-First Approach: [Index](_index/README.md)
+- `Language-First Approach`: [Homes](_homes/README.md)
+- `Contents-First Approach`: [Index](_index/README.md)
