@@ -15,8 +15,6 @@
 - `C`
 - `D`
 - `E`
-	- `en-us`
-		- [Home (en-us)](_en-us/README.md)
 - `F`
 - `G`
 - `H`

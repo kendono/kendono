@@ -2,3 +2,9 @@
 **/.obsidian/appearance.json
 **/.obsidian/workspace*.json
 **/.trash
+
+**/*.exe
+**/*.pdb
+
+**/Cargo.lock
+**/target
