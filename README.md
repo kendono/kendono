@@ -8,30 +8,37 @@
 - [TwitCast Channel](https://twitcasting.tv/ken_dono_)
 - [YouTube Channel](https://youtube.com/@ken_dono_)
 
-## Introduction
+## [Home](_/README.md)
 
-Hi, my name is Ken.
-
-I have interests in various fields, but if I have to pick 2, I'll pick these:
-
-- Natural Languages
-- Computer Programming
-
-I clear up my thoughts, then publish them here.
-
-If you are interested in, please check my contents.
-
-## Choose An Approach
-
-- `Language-First Approach`: [Homes](_homes/README.md)
-- `Contents-First Approach`: [Index](_index/README.md)
-
-## Publisher
-
-This repository also be planned to be a publisher.
-
-## Publications
-
-https://kendono.vercel.app
-
-The target website is the link above.
+- `A`
+- `B`
+- `C`
+- `D`
+- `E`
+	- `en-us`
+		- [Home (en-us)](_en-us/README.md)
+- `F`
+- `G`
+- `H`
+- `I`
+- `J`
+	- `ja-jp`
+		- [Home (ja-jp)](_ja-jp/README.md)
+- `K`
+	- `ko-kr`
+		- [Home (ko-kr)](_ko-kr/README.md)
+- `L`
+- `M`
+- `N`
+- `O`
+- `P`
+- `Q`
+- `R`
+- `S`
+- `T`
+- `U`
+- `V`
+- `W`
+- `X`
+- `Y`
+- `Z`
