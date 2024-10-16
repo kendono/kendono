@@ -1,2 +1,2 @@
 
-# JavaScript (Node)
+# JavaScript Node

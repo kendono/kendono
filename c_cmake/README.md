@@ -1,3 +1,3 @@
 
-# C (CMake)
+# C CMake
 

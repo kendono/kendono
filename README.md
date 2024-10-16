@@ -8,13 +8,15 @@
 - [TwitCast Channel](https://twitcasting.tv/ken_dono_)
 - [YouTube Channel](https://youtube.com/@ken_dono_)
 
-## [Home](_/README.md)
+## Home
 
 - `A`
 - `B`
 - `C`
 - `D`
 - `E`
+	- `en-us`
+		- [Home (en-us)](_en-us/README.md)
 - `F`
 - `G`
 - `H`
