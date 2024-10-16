@@ -1,7 +1,10 @@
 {
   "extensions": [
     "",
-    "css"
+    "css",
+    "rs",
+    "toml",
+    "txt"
   ],
   "folding": false,
   "lineNumbers": false,
