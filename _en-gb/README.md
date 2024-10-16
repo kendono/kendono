@@ -1,11 +1,9 @@
 
-# Home
+# Home (en-gb)
 
 - `A`
 - `B`
 - `C`
-	- `cjk-unified-ideographs`
-		- [CJK Unified Ideographs](cjk-unified-ideographs/README.md)
 - `D`
 - `E`
 - `F`
@@ -29,3 +27,4 @@
 - `X`
 - `Y`
 - `Z`
+
