@@ -1,2 +1,4 @@
 
-export PATH=$PATH:$(pwd)/sh
+export ROOT=$(pwd)
+
+export PATH=$PATH:$ROOT/.utils

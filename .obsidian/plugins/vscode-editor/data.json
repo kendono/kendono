@@ -1,6 +1,9 @@
 {
   "extensions": [
     "",
+    "c",
+    "cc",
+    "cs",
     "css",
     "rs",
     "sh",
