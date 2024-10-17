@@ -13,6 +13,8 @@
 - `J`
 - `K`
 - `L`
+	- `language`
+		- [言語](language/README.md)
 - `M`
 - `N`
 - `O`
