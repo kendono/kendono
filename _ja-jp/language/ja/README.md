@@ -15,6 +15,8 @@
 - `L`
 - `M`
 - `N`
+	- `n-sound`
+		- [んの発音](n-sound/README.md)
 - `O`
 - `P`
 - `Q`
