@@ -4,6 +4,8 @@
 - `A`
 - `B`
 - `C`
+	- `consonants-and-vowels`
+		- [子音と母音](consonants-and-vowels/README.md)
 - `D`
 - `E`
 - `F`
@@ -22,8 +24,8 @@
 - `Q`
 - `R`
 - `S`
-	- `consonants-and-vowels`
-		- [子音と母音](consonants-and-vowels/README.md)
+	- `small-tsu`
+		- [小さい「っ」の発音](small-tsu/README.md)
 - `T`
 - `U`
 - `V`
