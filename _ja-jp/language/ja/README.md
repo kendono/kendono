@@ -8,6 +8,8 @@
 		- [子音と母音](consonants-and-vowels/README.md)
 - `D`
 - `E`
+	- `ending-consonants`
+		- [子音で終わらせる発音](ending-consonants/README.md)
 - `F`
 - `G`
 - `H`
