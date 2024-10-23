@@ -1,17 +1,15 @@
 
-# 韓国語
+# 일본어
 
 - `A`
 - `B`
 - `C`
-	- `consonants`
-		- [韓国語の子音](consonants/README.md)
 - `D`
 - `E`
 - `F`
 - `G`
-	- `ganadara`
-		- [ガナダラ](ganadara/README.md)
+	- `gojuon`
+		- [오십음](gojuon/README.md)
 - `H`
 - `I`
 - `J`
@@ -31,4 +29,3 @@
 - `X`
 - `Y`
 - `Z`
-

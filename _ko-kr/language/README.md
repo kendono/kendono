@@ -1,20 +1,18 @@
 
-# 韓国語
+# 언어
 
 - `A`
 - `B`
 - `C`
-	- `consonants`
-		- [韓国語の子音](consonants/README.md)
 - `D`
 - `E`
 - `F`
 - `G`
-	- `ganadara`
-		- [ガナダラ](ganadara/README.md)
 - `H`
 - `I`
 - `J`
+	- `ja`
+		- [일본어](ja/README.md)
 - `K`
 - `L`
 - `M`
