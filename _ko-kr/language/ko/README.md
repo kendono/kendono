@@ -9,6 +9,8 @@
 - `F`
 - `G`
 - `H`
+	- `hanja`
+		- [한자](hanja/README.md)
 - `I`
 - `J`
 - `K`
