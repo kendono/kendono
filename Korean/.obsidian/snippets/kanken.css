@@ -1,0 +1,19 @@
+
+.kanken td:nth-child(3), 
+.kanken td:nth-child(4) {
+  max-width: 80px;
+}
+
+.kanken td:nth-child(3) .cm-line,
+.kanken td:nth-child(3) .table-cell-wrapper {
+  font-family:
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 50px;
+}
+
+.kanken td:nth-child(4) .cm-line,
+.kanken td:nth-child(4) .table-cell-wrapper {
+  font-family: 'Noto Sans Mono CJK JP';
+  font-size: 50px;
+}

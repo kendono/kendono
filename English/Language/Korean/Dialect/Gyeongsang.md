@@ -1,0 +1,1 @@
+# Gyeongsang Dialect
