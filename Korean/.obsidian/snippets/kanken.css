@@ -17,3 +17,8 @@
   font-family: 'Noto Sans Mono CJK JP';
   font-size: 50px;
 }
+
+.small {
+  font-size: 11px !important;
+  margin: 0 !important;
+}
