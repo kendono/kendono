@@ -1,7 +1,7 @@
 
 .kanken td:nth-child(4), 
 .kanken td:nth-child(5) {
-  max-width: 3rem;
+  max-width: 3rem !important;
 }
 
 .kanken td:nth-child(4) .cm-line,
