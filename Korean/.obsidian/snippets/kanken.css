@@ -1,24 +1,24 @@
 
-.kanken td:nth-child(3), 
-.kanken td:nth-child(4) {
-  max-width: 80px;
-}
-
-.kanken td:nth-child(3) .cm-line,
-.kanken td:nth-child(3) .table-cell-wrapper {
-  font-family:
-    'Noto Sans Mono CJK KR',
-    'Noto Sans Mono CJK JP';
-  font-size: 50px;
+.kanken td:nth-child(4), 
+.kanken td:nth-child(5) {
+  max-width: 3rem;
 }
 
 .kanken td:nth-child(4) .cm-line,
 .kanken td:nth-child(4) .table-cell-wrapper {
+  font-family:
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 3rem;
+}
+
+.kanken td:nth-child(5) .cm-line,
+.kanken td:nth-child(5) .table-cell-wrapper {
   font-family: 'Noto Sans Mono CJK JP';
-  font-size: 50px;
+  font-size: 3rem;
 }
 
 .small {
-  font-size: 12px !important;
+  font-size: 0.6rem !important;
   margin: 0 !important;
 }
