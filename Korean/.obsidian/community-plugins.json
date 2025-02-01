@@ -14,5 +14,6 @@
   "table-editor-obsidian",
   "obsidian-style-settings",
   "fontsource",
-  "custom-font-loader"
+  "custom-font-loader",
+  "obsidian-regex-replace"
 ]
