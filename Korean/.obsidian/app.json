@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "spellcheck": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
