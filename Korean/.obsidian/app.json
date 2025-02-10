@@ -5,7 +5,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
   "showInlineTitle": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "foldIndent": false,
   "foldHeading": false,
   "newLinkFormat": "shortest",

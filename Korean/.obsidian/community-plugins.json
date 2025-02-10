@@ -7,13 +7,9 @@
   "folder-notes",
   "global-search-and-replace",
   "obsidian-paste-image-rename",
-  "obsidian-image-toolkit",
   "link-with-alias",
-  "mousewheel-image-zoom",
-  "obsidian-redirect",
   "table-editor-obsidian",
-  "obsidian-style-settings",
-  "fontsource",
   "custom-font-loader",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "show-hidden-files"
 ]
