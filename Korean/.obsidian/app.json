@@ -3,7 +3,7 @@
   "newFileLocation": "root",
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "_attachments",
+  "attachmentFolderPath": ".obsidian/attachments",
   "showInlineTitle": false,
   "showLineNumber": false,
   "foldIndent": false,

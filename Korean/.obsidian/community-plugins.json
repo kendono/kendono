@@ -4,12 +4,12 @@
   "custom-sort",
   "obsidian-alias-from-heading",
   "obsidian-hider",
-  "folder-notes",
   "global-search-and-replace",
   "obsidian-paste-image-rename",
   "link-with-alias",
   "table-editor-obsidian",
   "custom-font-loader",
   "obsidian-regex-replace",
-  "show-hidden-files"
+  "show-hidden-files",
+  "hide-folders"
 ]

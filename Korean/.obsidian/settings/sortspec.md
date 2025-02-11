@@ -4,7 +4,9 @@ cssclasses:
 tags: 
 sorting-spec: |-
   target-folder: /*
+  ./...
+  /:files
   _...
-  Untitled...
+  /folders
   < vsc-unicode
 ---
