@@ -11,5 +11,6 @@
   "show-hidden-files",
   "hide-folders",
   "folder-notes",
-  "plugin-reloader"
+  "plugin-reloader",
+  "obsidian-export-image"
 ]
