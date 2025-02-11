@@ -9,7 +9,7 @@
   "excludeFolders": [
     {
       "type": "pattern",
-      "string": ".obsidian",
+      "string": "",
       "position": 0,
       "subFolders": true,
       "disableSync": true,
@@ -17,7 +17,20 @@
       "disableFolderNote": false,
       "enableCollapsing": false,
       "excludeFromFolderOverview": false,
+      "path": ".obsidian",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
       "path": "",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 1,
+      "excludeFromFolderOverview": false,
+      "string": "",
       "hideInSettings": false
     }
   ],
@@ -62,7 +75,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "exclude_folders",
   "supportedFileTypes": [
     "md",
     "canvas"
