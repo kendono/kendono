@@ -4,7 +4,7 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": true,
+  "autoCreate": false,
   "enableCollapsing": false,
   "excludeFolders": [
     {
@@ -29,6 +29,45 @@
       "disableFolderNote": false,
       "enableCollapsing": false,
       "position": 1,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
+      "path": ".obsidian/plugins",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 2,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
+      "path": ".obsidian/fonts",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 3,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
+      "path": ".obsidian/snippets",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 4,
       "excludeFromFolderOverview": false,
       "string": "",
       "hideInSettings": false
@@ -75,7 +114,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "exclude_folders",
   "supportedFileTypes": [
     "md",
     "canvas"
