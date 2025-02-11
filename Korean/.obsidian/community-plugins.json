@@ -11,5 +11,6 @@
   "custom-font-loader",
   "obsidian-regex-replace",
   "show-hidden-files",
-  "hide-folders"
+  "hide-folders",
+  "folder-notes"
 ]

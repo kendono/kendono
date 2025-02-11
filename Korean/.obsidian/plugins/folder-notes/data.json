@@ -4,12 +4,12 @@
   "altKey": false,
   "hideFolderNote": true,
   "templatePath": "",
-  "autoCreate": false,
+  "autoCreate": true,
   "enableCollapsing": false,
   "excludeFolders": [
     {
       "type": "pattern",
-      "string": "_*",
+      "string": ".obsidian",
       "position": 0,
       "subFolders": true,
       "disableSync": true,
@@ -32,7 +32,7 @@
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
   "newFolderNoteName": "{{folder_name}}",
-  "storageLocation": "parentFolder",
+  "storageLocation": "insideFolder",
   "syncDelete": false,
   "showRenameConfirmation": true,
   "defaultOverview": {
