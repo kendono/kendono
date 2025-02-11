@@ -8,16 +8,29 @@
   "enableCollapsing": false,
   "excludeFolders": [
     {
-      "type": "pattern",
-      "string": ".obsidian",
-      "position": 0,
+      "type": "folder",
+      "path": ".obsidian",
       "subFolders": true,
       "disableSync": true,
       "disableAutoCreate": true,
       "disableFolderNote": false,
       "enableCollapsing": false,
+      "position": 0,
       "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    },
+    {
+      "type": "folder",
       "path": "",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 1,
+      "excludeFromFolderOverview": false,
+      "string": "",
       "hideInSettings": false
     }
   ],
