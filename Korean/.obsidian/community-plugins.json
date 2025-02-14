@@ -10,7 +10,7 @@
   "obsidian-regex-replace",
   "show-hidden-files",
   "hide-folders",
-  "folder-notes",
   "plugin-reloader",
-  "obsidian-export-image"
+  "obsidian-export-image",
+  "folder-notes"
 ]
