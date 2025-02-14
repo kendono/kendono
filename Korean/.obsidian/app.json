@@ -33,5 +33,11 @@
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
