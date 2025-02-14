@@ -13,5 +13,8 @@
   "plugin-reloader",
   "obsidian-export-image",
   "folder-notes",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "webpage-html-export"
 ]
