@@ -1,2 +1,0 @@
-# Gangwon Dialect
- 

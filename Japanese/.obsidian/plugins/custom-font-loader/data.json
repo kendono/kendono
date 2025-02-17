@@ -1,7 +1,0 @@
-{
-  "font_folder": ".obsidian/fonts/",
-  "font": "Noto Sans Mono CJK JP.otf",
-  "force_mode": false,
-  "custom_css_mode": false,
-  "custom_css": ":root * {\n\t\t--font-default: Noto Sans Mono CJK JP;\n\t\t--default-font: Noto Sans Mono CJK JP;\n\t\t--font-family-editor: Noto Sans Mono CJK JP;\n\t\t--font-monospace-default: Noto Sans Mono CJK JP,\n\t\t--font-interface-override: Noto Sans Mono CJK JP,\n\t\t--font-text-override: Noto Sans Mono CJK JP,\n\t\t--font-monospace-override: Noto Sans Mono CJK JP,\t\n\t}\n"
-}

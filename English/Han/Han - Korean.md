@@ -1,5 +1,0 @@
-# Han - Korean
-
-| Index |
-| :---: |
-|       |
