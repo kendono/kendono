@@ -1,0 +1,35 @@
+
+/* korea */
+.kanken td:nth-child(5),
+.kanken td:nth-child(5) .cm-line
+{
+  font-family:
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 2rem;
+  min-width: 2rem !important;
+}
+
+/* kyujitai */
+.kanken td:nth-child(6)
+{
+  font-family: 'Noto Sans Mono CJK JP';
+  font-size: 1.5rem;
+  min-width: 1.5rem !important;
+}
+
+/* japan */
+.kanken td:nth-child(8)
+{
+  font-family: 'Noto Sans Mono CJK JP';
+  font-size: 3rem;
+  min-width: 3rem !important;
+}
+
+/* radical */
+.kanken td:nth-child(9)
+{
+  font-family: 'Noto Sans Mono CJK JP';
+  font-size: 2rem;
+  min-width: 2rem !important;
+}
