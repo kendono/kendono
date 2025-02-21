@@ -1,0 +1,43 @@
+
+/* korea */
+.hanja td:nth-child(3),
+.hanja td:nth-child(3) .cm-line
+{
+  font-family:
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 3rem;
+  min-width: 0rem !important;
+}
+
+/* eum */
+.hanja td:nth-child(2),
+.hanja td:nth-child(2) .cm-line
+{
+  font-family: 
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 1.5rem;
+  min-width: 0rem !important;
+}
+
+/* radical */
+.hanja td:nth-child(4),
+.hanja td:nth-child(4) .cm-line
+{
+  font-family: 
+    'Noto Sans Mono CJK KR',
+    'Noto Sans Mono CJK JP';
+  font-size: 2rem;
+  min-width: 0rem !important;
+}
+
+/* japan */
+.hanja td:nth-child(6),
+.hanja td:nth-child(6) .cm-line
+{
+  font-family:
+    'Noto Sans Mono CJK JP';
+  font-size: 2rem;
+  min-width: 0rem !important;
+}
