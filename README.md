@@ -3,8 +3,8 @@
 
 - [X Account](https://x.com/ken_dono_)
 - [X Bot Account](https://x.com/ken_auto_)
-- [GitHub Account](https://github.com/kendono)
-- [Discord Server](https://discord.gg/jhJ64HDRSX)
+- [GitHub](https://github.com/kendono)
+- [Discord](https://discord.gg/jhJ64HDRSX)
 
 ## Releases
 
