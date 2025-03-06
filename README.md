@@ -1,8 +1,8 @@
 
 # Ken
 
-- [X Account](https://x.com/ken_dono_)
-- [X Bot Account](https://x.com/ken_auto_)
+- [X](https://x.com/ken_dono_)
+- [X Bot](https://x.com/ken_auto_)
 - [GitHub](https://github.com/kendono)
 - [Discord](https://discord.gg/jhJ64HDRSX)
 
