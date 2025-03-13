@@ -7,7 +7,8 @@
   "showHiddenFiles": true,
   "showingRules": [
     "+/",
-    "-/.git",
-    "-/.trash"
+    "-.git",
+    "-.trash",
+    "-.target/.git"
   ]
 }

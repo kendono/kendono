@@ -1,0 +1,40 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 1,
+    "longDelaySeconds": 2,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "plugins": {
+      "obsidian-editor-shortcuts": {
+        "startupType": "short"
+      },
+      "custom-sort": {
+        "startupType": "short"
+      },
+      "custom-font-loader": {
+        "startupType": "short"
+      },
+      "obsidian-hider": {
+        "startupType": "short"
+      },
+      "open-vscode": {
+        "startupType": "short"
+      },
+      "plugin-reloader": {
+        "startupType": "short"
+      },
+      "show-hidden-files": {
+        "startupType": "instant"
+      },
+      "terminal": {
+        "startupType": "short"
+      },
+      "vscode-editor": {
+        "startupType": "short"
+      }
+    }
+  }
+}
