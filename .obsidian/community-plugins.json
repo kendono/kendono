@@ -1,8 +1,4 @@
 [
   "show-hidden-files",
-  "lazy-plugins",
-  "css-editor",
-  "homepage",
-  "folder-notes",
-  "obsidian-alias-from-heading"
+  "lazy-plugins"
 ]

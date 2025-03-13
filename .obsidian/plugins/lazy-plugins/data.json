@@ -34,6 +34,18 @@
       },
       "vscode-editor": {
         "startupType": "short"
+      },
+      "obsidian-alias-from-heading": {
+        "startupType": "short"
+      },
+      "css-editor": {
+        "startupType": "short"
+      },
+      "folder-notes": {
+        "startupType": "short"
+      },
+      "homepage": {
+        "startupType": "short"
       }
     }
   }
