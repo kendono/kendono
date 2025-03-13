@@ -10,3 +10,7 @@ table {
 th {
   text-align: center !important;
 }
+
+th, td, table .cm-line {
+  white-space: nowrap !important;
+}
