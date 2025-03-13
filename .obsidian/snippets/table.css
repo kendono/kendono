@@ -6,3 +6,7 @@ table {
 .markdown-rendered tr {
 	height: unset !important;
 }
+
+th {
+  text-align: center !important;
+}
