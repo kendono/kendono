@@ -52,6 +52,9 @@
       },
       "unitade": {
         "startupType": "short"
+      },
+      "hide-folders": {
+        "startupType": "short"
       }
     }
   }
