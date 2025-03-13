@@ -1,2 +1,2 @@
 
-# Home (Chinese, Trad.)
+# Home (Chinese, TC)
