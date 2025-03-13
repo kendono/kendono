@@ -1,4 +1,5 @@
 [
   "show-hidden-files",
-  "lazy-plugins"
+  "lazy-plugins",
+  "obsidian-export-image"
 ]
