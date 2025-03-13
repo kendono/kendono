@@ -1,7 +1,4 @@
 
 # README
 
-- `.source`
-	- [Home](.source/INDEX.md)
-- `docs`
-	- [Documentation](docs/README.md)
+- [Home](docs/INDEX.md)

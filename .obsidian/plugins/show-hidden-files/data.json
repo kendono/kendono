@@ -9,6 +9,6 @@
     "+/",
     "-.git",
     "-.trash",
-    "-.target/.git"
+    "-.target"
   ]
 }

@@ -5,3 +5,8 @@
 /.obsidian/workspace-mobile.json
 /.trash
 /.target
+
+
+# Added by cargo
+
+/target
