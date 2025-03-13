@@ -1,4 +1,6 @@
 [
   "show-hidden-files",
-  "lazy-plugins"
+  "lazy-plugins",
+  "hide-folders",
+  "codeblock-customizer"
 ]

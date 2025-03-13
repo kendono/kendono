@@ -46,6 +46,12 @@
       },
       "homepage": {
         "startupType": "short"
+      },
+      "codeblock-customizer": {
+        "startupType": "short"
+      },
+      "unitade": {
+        "startupType": "short"
       }
     }
   }
