@@ -1,4 +1,6 @@
 [
   "show-hidden-files",
-  "lazy-plugins"
+  "lazy-plugins",
+  "obsidian-enhancing-export",
+  "webpage-html-export"
 ]

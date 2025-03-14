@@ -5,6 +5,7 @@
   "hideBottomStatusBarIndicatorText": false,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
-    ".target"
+    ".target",
+    ".website"
   ]
 }
