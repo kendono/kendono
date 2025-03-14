@@ -55,6 +55,9 @@
       },
       "hide-folders": {
         "startupType": "short"
+      },
+      "obsidian-export-image": {
+        "startupType": "short"
       }
     }
   }
