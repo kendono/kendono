@@ -27,7 +27,7 @@
         "startupType": "instant"
       },
       "show-hidden-files": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "terminal": {
         "startupType": "instant"
