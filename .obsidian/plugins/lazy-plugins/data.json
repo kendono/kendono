@@ -5,59 +5,65 @@
     "shortDelaySeconds": 1,
     "longDelaySeconds": 2,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": "short",
+    "defaultStartupType": null,
     "showDescriptions": true,
     "plugins": {
       "obsidian-editor-shortcuts": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "custom-sort": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "custom-font-loader": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-hider": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "open-vscode": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "plugin-reloader": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "show-hidden-files": {
         "startupType": "instant"
       },
       "terminal": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "vscode-editor": {
         "startupType": "short"
       },
       "obsidian-alias-from-heading": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "css-editor": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "folder-notes": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "homepage": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "codeblock-customizer": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "unitade": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "hide-folders": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-export-image": {
-        "startupType": "short"
+        "startupType": "instant"
+      },
+      "obsidian-enhancing-export": {
+        "startupType": "instant"
+      },
+      "webpage-html-export": {
+        "startupType": "instant"
       }
     }
   }
