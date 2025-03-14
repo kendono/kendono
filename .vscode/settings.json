@@ -1,7 +1,4 @@
 {
-    "files.exclude": {
-        "**/.target": true
-    },
     "explorer.sortOrder": "filesFirst",
     "explorer.sortOrderLexicographicOptions": "unicode"
 }
