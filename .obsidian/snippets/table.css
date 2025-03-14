@@ -3,7 +3,8 @@ table {
 	--table-cell-vertical-alignment: middle;
 }
 
-.markdown-rendered tr {
+.markdown-rendered th,
+.markdown-rendered td {
 	height: unset !important;
 }
 
