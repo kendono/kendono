@@ -3,7 +3,7 @@
 
 | Row |                             Part 1                              |                             Part 2                              |
 | :-: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-| 16  | [JIS Level 1 - Row 16, Part 1(47)](row_16/row_16_pt1/README.md) | [JIS Level 1 - Row 16, Part 2(47)](row_16/row_16_pt2/README.md) |
+| 16  | [JIS Level 1 - Row 16, Part 1(50)](row_16/row_16_pt1/README.md) | [JIS Level 1 - Row 16, Part 2(44)](row_16/row_16_pt2/README.md) |
 | 17  |                                                                 |                                                                 |
 | 18  |                                                                 |                                                                 |
 | 19  |                                                                 |                                                                 |

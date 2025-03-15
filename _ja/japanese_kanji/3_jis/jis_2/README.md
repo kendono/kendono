@@ -3,7 +3,7 @@
 
 |  Row  |                                  Part 1                                  |                                  Part 2                                  |
 | :---: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|  48   |     [JIS Level 2 - Row 48, Part 1(47)](row_48/row_48_pt1/README.md)      |     [JIS Level 2 - Row 48, Part 2(47)](row_48/row_48_pt2/README.md)      |
+|  48   |     [JIS Level 2 - Row 48, Part 1(50)](row_48/row_48_pt1/README.md)      |     [JIS Level 2 - Row 48, Part 2(44)](row_48/row_48_pt2/README.md)      |
 |  49   |                                                                          |                                                                          |
 |  50   |                                                                          |                                                                          |
 |  51   |                                                                          |                                                                          |
