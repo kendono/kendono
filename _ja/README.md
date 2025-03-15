@@ -1,5 +1,5 @@
 
 # Home (Japanese)
 
-- `kanken`
-	- [Kanken](kanken/README.md)
+- `japanese_kanji`
+	- [Japanese Kanji](japanese_kanji/README.md)
