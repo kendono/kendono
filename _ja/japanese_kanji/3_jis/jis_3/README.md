@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - sm2
+---
 
 # JIS Level 3
 

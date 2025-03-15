@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - big2
+  - bg2
 ---
 
 # JIS Level 1 - Row 16

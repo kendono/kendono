@@ -8,6 +8,15 @@
 .big7 table td:nth-child(7) { min-width: 0 !important; font-size: 3rem; }
 .big8 table td:nth-child(8) { min-width: 0 !important; font-size: 3rem; }
 .big9 table td:nth-child(9) { min-width: 0 !important; font-size: 3rem; }
+.bg1  table td:nth-child(1) { min-width: 0 !important; font-size: 2.5rem; }
+.bg2  table td:nth-child(2) { min-width: 0 !important; font-size: 2.5rem; }
+.bg3  table td:nth-child(3) { min-width: 0 !important; font-size: 2.5rem; }
+.bg4  table td:nth-child(4) { min-width: 0 !important; font-size: 2.5rem; }
+.bg5  table td:nth-child(5) { min-width: 0 !important; font-size: 2.5rem; }
+.bg6  table td:nth-child(6) { min-width: 0 !important; font-size: 2.5rem; }
+.bg7  table td:nth-child(7) { min-width: 0 !important; font-size: 2.5rem; }
+.bg8  table td:nth-child(8) { min-width: 0 !important; font-size: 2.5rem; }
+.bg9  table td:nth-child(9) { min-width: 0 !important; font-size: 2.5rem; }
 .mid1 table td:nth-child(1) { min-width: 0 !important; font-size: 2rem; }
 .mid2 table td:nth-child(2) { min-width: 0 !important; font-size: 2rem; }
 .mid3 table td:nth-child(3) { min-width: 0 !important; font-size: 2rem; }

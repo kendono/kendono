@@ -1,6 +1,8 @@
 
 # Japanese Kanji
 
-- [Kyoiku Kanji](1_kyoiku/README.md)
-- [Joyo Kanji](2_joyo/README.md)
-- [JIS Kanji](3_jis/README.md)
+|              Category              |                 Count                 |                                                                                                                                              Entries                                                                                                                                               |           Kanken            |
+| :--------------------------------: | :-----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: |
+| [Kyoiku Kanji](1_kyoiku/README.md) | 80<br>160<br>200<br>202<br>193<br>191 | [Kyoiku Kanji 1](1_kyoiku/kyoiku_1/README.md)<br>[Kyoiku Kanji 2](1_kyoiku/kyoiku_2/README.md)<br>[Kyoiku Kanji 3](1_kyoiku/kyoiku_3/README.md)<br>[Kyoiku Kanji 4](1_kyoiku/kyoiku_4/README.md)<br>[Kyoiku Kanji 5](1_kyoiku/kyoiku_5/README.md)<br>[Kyoiku Kanji 6](1_kyoiku/kyoiku_6/README.md) | 10<br>9<br>8<br>7<br>6<br>5 |
+|   [Joyo Kanji](2_joyo/README.md)   |       313<br>284<br>328<br>185        |                                                              [Joyo Kanji 1](2_joyo/joyo_1/README.md)<br>[Joyo Kanji 2](2_joyo/joyo_2/README.md)<br>[Joyo Kanji 3](2_joyo/joyo_3/README.md)<br>[Joyo Kanji 4](2_joyo/joyo_4/README.md)                                                              |     4<br>3<br>2.5<br>2      |
+|    [JIS Kanji](3_jis/README.md)    |     2965<br>3390<br>1259<br>2436      |                                                                    [JIS Level 1](3_jis/jis_1/README.md)<br>[JIS Level 2](3_jis/jis_2/README.md)<br>[JIS Level 3](3_jis/jis_3/README.md)<br>[JIS Level 4](3_jis/jis_4/README.md)                                                                    |     1.5<br>1<br>-<br>-      |
