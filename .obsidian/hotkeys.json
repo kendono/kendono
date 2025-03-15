@@ -14,5 +14,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
   ]
 }
