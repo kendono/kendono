@@ -34,4 +34,4 @@
 | 44  |                                                                 |                                                                 |
 | 45  |                                                                 |                                                                 |
 | 46  |                                                                 |                                                                 |
-| 47  |                    JIS Level 1 - Row 47(51)                     |                                -                                |
+| 47  |          [JIS Level 1 - Row 47(51)](row_47/README.md)           |                                -                                |
