@@ -1,67 +1,37 @@
 
 # JIS Level 1
 
-- `row_16`
-	- [JIS Level 1 - Row 16](row_16/README.md)
-- `row_17`
-	- JIS Level 1 - Row 17
-- `row_18`
-	- JIS Level 1 - Row 18
-- `row_19`
-	- JIS Level 1 - Row 19
-- `row_20`
-	- JIS Level 1 - Row 20
-- `row_21`
-	- JIS Level 1 - Row 21
-- `row_22`
-	- JIS Level 1 - Row 22
-- `row_23`
-	- JIS Level 1 - Row 23
-- `row_24`
-	- JIS Level 1 - Row 24
-- `row_25`
-	- JIS Level 1 - Row 25
-- `row_26`
-	- JIS Level 1 - Row 26
-- `row_27`
-	- JIS Level 1 - Row 27
-- `row_28`
-	- JIS Level 1 - Row 28
-- `row_29`
-	- JIS Level 1 - Row 29
-- `row_30`
-	- JIS Level 1 - Row 30
-- `row_31`
-	- JIS Level 1 - Row 31
-- `row_32`
-	- JIS Level 1 - Row 32
-- `row_33`
-	- JIS Level 1 - Row 33
-- `row_34`
-	- JIS Level 1 - Row 34
-- `row_35`
-	- JIS Level 1 - Row 35
-- `row_36`
-	- JIS Level 1 - Row 36
-- `row_37`
-	- JIS Level 1 - Row 37
-- `row_38`
-	- JIS Level 1 - Row 38
-- `row_39`
-	- JIS Level 1 - Row 39
-- `row_40`
-	- JIS Level 1 - Row 40
-- `row_41`
-	- JIS Level 1 - Row 41
-- `row_42`
-	- JIS Level 1 - Row 42
-- `row_43`
-	- JIS Level 1 - Row 43
-- `row_44`
-	- JIS Level 1 - Row 44
-- `row_45`
-	- JIS Level 1 - Row 45
-- `row_46`
-	- JIS Level 1 - Row 46
-- `row_47`
-	- JIS Level 1 - Row 47
+| Row |                             Part 1                              |                             Part 2                              |
+| :-: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+| 16  | [JIS Level 1 - Row 16, Part 1(47)](row_16/row_16_pt1/README.md) | [JIS Level 1 - Row 16, Part 2(47)](row_16/row_16_pt2/README.md) |
+| 17  |                                                                 |                                                                 |
+| 18  |                                                                 |                                                                 |
+| 19  |                                                                 |                                                                 |
+| 20  |                                                                 |                                                                 |
+| 21  |                                                                 |                                                                 |
+| 22  |                                                                 |                                                                 |
+| 23  |                                                                 |                                                                 |
+| 24  |                                                                 |                                                                 |
+| 25  |                                                                 |                                                                 |
+| 26  |                                                                 |                                                                 |
+| 27  |                                                                 |                                                                 |
+| 28  |                                                                 |                                                                 |
+| 29  |                                                                 |                                                                 |
+| 30  |                                                                 |                                                                 |
+| 31  |                                                                 |                                                                 |
+| 32  |                                                                 |                                                                 |
+| 33  |                                                                 |                                                                 |
+| 34  |                                                                 |                                                                 |
+| 35  |                                                                 |                                                                 |
+| 36  |                                                                 |                                                                 |
+| 37  |                                                                 |                                                                 |
+| 38  |                                                                 |                                                                 |
+| 39  |                                                                 |                                                                 |
+| 40  |                                                                 |                                                                 |
+| 41  |                                                                 |                                                                 |
+| 42  |                                                                 |                                                                 |
+| 43  |                                                                 |                                                                 |
+| 44  |                                                                 |                                                                 |
+| 45  |                                                                 |                                                                 |
+| 46  |                                                                 |                                                                 |
+| 47  |                    JIS Level 1 - Row 47(51)                     |                                -                                |
