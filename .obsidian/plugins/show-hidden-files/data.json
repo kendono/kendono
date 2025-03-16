@@ -8,6 +8,8 @@
   "showingRules": [
     "+/",
     "-.git",
-    "-.trash"
+    "-.trash",
+    "-.target",
+    "-/^(?!.*\\*\\/\\.target).*$/"
   ]
 }
