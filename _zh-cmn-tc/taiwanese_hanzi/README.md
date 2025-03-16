@@ -1,5 +1,5 @@
 
 # Taiwanese Hanzi
 
-- `common_4808`
-	- [Common Taiwanese Characters (4808)](common_4808/README.md)
+- `common`
+	- [Common Taiwanese Characters (4808)](common/README.md)
