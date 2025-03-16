@@ -5,6 +5,6 @@
 
 *But this one, 'Home (English)' is more focused on English-specific contents.*
 
-*Basically, American English will be preferred, rather than British English.*
+*The English is being used by many countries, such as United States, United Kingdom, and Australia.*
 
-*And also, the main target is United States, rather than United Kingdom.*
+*But basically, the American English will be preferred, rather than other styles of English.*
