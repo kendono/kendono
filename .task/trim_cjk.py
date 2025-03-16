@@ -7,11 +7,11 @@ input_file = "Untitled.md"
 with open(input_file, "r", encoding="utf-8") as file:
     content = file.read()
 
-# Regex to find markdown links and replace with alias only
-processed_content = re.sub(r"\[(.*?)\]\(.*?\)", r"\1", content)
+# Regex to keep only CJK Chinese characters
+processed_content = re.sub(r"[^\u4E00-\u9FFF]", "", content)
 
 # Write the cleaned content back to the file
 with open(input_file, "w", encoding="utf-8") as file:
     file.write(processed_content)
 
-print("Markdown links trimmed successfully.")
+print("Non-CJK characters removed successfully.")
