@@ -3,4 +3,4 @@
 
 | Entries                                    | Status |
 | ------------------------------------------ | :----: |
-| [Korean Hanja](<./Korean Hanja/README.md>) |  🛠️   |
+| [Korean Hanja](<./Korean Hanja/README.md>) |   ✅    |

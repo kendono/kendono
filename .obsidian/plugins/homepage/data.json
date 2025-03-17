@@ -14,7 +14,16 @@
       "autoCreate": false,
       "autoScroll": false,
       "pin": false,
-      "commands": [],
+      "commands": [
+        {
+          "id": "custom-sort:enable-custom-sorting",
+          "period": "Both"
+        },
+        {
+          "id": "plugin-reloader:folder-notes",
+          "period": "Both"
+        }
+      ],
       "alwaysApply": false,
       "hideReleaseNotes": false
     }
