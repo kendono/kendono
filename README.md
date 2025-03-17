@@ -25,12 +25,12 @@
 
 ## Project Workspace
 
-- [App](<./_app/README.md>)
-- [Bin](<./_bin/README.md>)
-- [Inc](<./_inc/README.md>)
-- [Lib](<./_lib/README.md>)
-- [Src](<./_src/README.md>)
-- [Web](<./_web/README.md>)
+- `_app` [App](<./_app/README.md>)
+- `_bin` [Bin](<./_bin/README.md>)
+- `_inc` [Inc](<./_inc/README.md>)
+- `_lib` [Lib](<./_lib/README.md>)
+- `_src` [Src](<./_src/README.md>)
+- `_web` [Web](<./_web/README.md>)
 
 ## Software Projects
 
