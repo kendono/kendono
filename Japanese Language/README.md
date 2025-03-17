@@ -1,4 +1,6 @@
 
 # Japanese Language
 
-- [Japanese Kanji](<./japanese_kanji/README.md>)
+| Entries                                        | Status |
+| ---------------------------------------------- | :----: |
+| [Japanese Kanji](<./japanese_kanji/README.md>) |  🛠️   |

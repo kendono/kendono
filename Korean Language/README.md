@@ -1,4 +1,6 @@
 
 # Korean Language
 
-- [Korean Hanja](<./korean_hanja/README.md>)
+| Entries                                    | Status |
+| ------------------------------------------ | :----: |
+| [Korean Hanja](<./korean_hanja/README.md>) |  🛠️   |

@@ -3,9 +3,6 @@
 
 1800 characters
 
-- [Basic Hanja 1](<#Basic Hanja 1>)
-- [Basic Hanja 2](<#Basic Hanja 2>)
-
 ## Basic Hanja 1
 
 900 characters
