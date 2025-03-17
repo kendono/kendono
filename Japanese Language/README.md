@@ -1,4 +1,4 @@
+
 # Japanese Language
 
-- `japanese_kanji`
-	- [Japanese Kanji](<./japanese_kanji/README.md>)
+- [Japanese Kanji](<./japanese_kanji/README.md>)
