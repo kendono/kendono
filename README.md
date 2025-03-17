@@ -1,6 +1,11 @@
 
 # Home
 
+- `kendono`
+	- https://github.com/kendono
+- `.target`
+	- https://kendono.vercel.app
+
 ## Markdown Documents
 
 | General                                                  | Specific                                                                                                                                                                                                                                                   |
