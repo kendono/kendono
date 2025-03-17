@@ -1,2 +1,1 @@
-
-# Home (Spanish)
+# Spanish Language

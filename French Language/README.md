@@ -1,2 +1,1 @@
-
-# Home (French)
+# French Language

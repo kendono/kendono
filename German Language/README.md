@@ -1,2 +1,1 @@
-
-# Home (German)
+# German Language

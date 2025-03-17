@@ -1,1 +1,1 @@
-# Home (Mongolian)
+# Mongolian Language

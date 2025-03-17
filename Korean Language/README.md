@@ -1,5 +1,4 @@
-
-# Home (Korean)
+# Korean Language
 
 - `korean_hanja`
 	- [Korean Hanja](<./korean_hanja/README.md>)

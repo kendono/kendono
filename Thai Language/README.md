@@ -1,1 +1,1 @@
-# Home (Thai)
+# Thai Language
