@@ -45,14 +45,14 @@
 | ID            | Entries                     |
 | ------------- | --------------------------- |
 | `_android`     | Android                     |
-| `_c`           | [C](<./c/README.md>)           |
-| `_cc`          | [C++](<./cc/README.md>)        |
+| `_c`           | [C](<./_inc/README.md>)           |
+| `_cc`          | [C++](<./_bin/cc/README.md>)        |
 | `_cs`          | [CSharp](<./cs/README.md>)     |
 | `_git`         | Git                         |
 | `_github`      | GitHub                      |
 | `_html`        | [HTML](<./html/README.md>)     |
 | `_ios`         | iOS                         |
-| `_js`          | [JavaScript](<./js/README.md>) |
+| `_js`          | [JavaScript](<./_src/js/README.md>) |
 | `_linux`       | Linux                       |
 | `_m`           | Objective-C                 |
 | `_macos`       | macOS                       |
@@ -61,8 +61,8 @@
 | `_obsidian-md` | Obsidian.md                 |
 | `_py`          | Python                      |
 | `_r`           | R                           |
-| `_rs`          | [Rust](<./rs/README.md>)       |
-| `_ts`          | [TypeScript](<./ts/README.md>) |
+| `_rs`          | [Rust](<./_bin/rs/README.md>)       |
+| `_ts`          | [TypeScript](<./_src/ts/README.md>) |
 | `_ue`          | Unreal Engine               |
 | `_unity`       | Unity Engine                |
 | `_unix`        | Unix                        |

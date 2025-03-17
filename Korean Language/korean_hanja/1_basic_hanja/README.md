@@ -3,8 +3,8 @@
 
 1800 characters
 
-- [Basic Hanja 1](#Basic%20Hanja%201)
-- [Basic Hanja 2](#Basic%20Hanja%202)
+- [Basic Hanja 1](<#Basic Hanja 1>)
+- [Basic Hanja 2](<#Basic Hanja 2>)
 
 ## Basic Hanja 1
 
