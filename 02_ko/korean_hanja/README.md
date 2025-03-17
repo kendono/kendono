@@ -1,19 +1,19 @@
 
 # Korean Hanja
 
-- [Basic Hanja](2_ko/korean_hanja/1_basic_hanja/README.md)
-- [KS X 1001/1002](2_ko/korean_hanja/2_ks_x_1001_1002/README.md)
+- [Basic Hanja](1_basic_hanja/README.md)
+- [KS X 1001/1002](2_ks_x_1001_1002/README.md)
 
 ## Cert/Test
 
 | Index |                               기관명                                |        자격명/시험명         | 최초 시험 | 최대 개수 |       공인 자격       |
 | :---: | :--------------------------------------------------------------: | :--------------------: | :---: | :---: | :---------------: |
-|   1   |                    [한국어문회](2_ko/korean_hanja/test_1/README.md)                    | 한자능력급수<br>(전국한자능력검정시험) | 1992  | 5978  | \<준3급><br>(1,500) |
-|   2   |                    [대한검정회](2_ko/korean_hanja/test_2/README.md)                    |        한자급수자격검정        | 1996  | 4999  | \<준2급><br>(1,500) |
-|   3   | [한국한자실력평가원](2_ko/korean_hanja/test_3/README.md)<br>([한자교육진흥회](2_ko/korean_hanja/test_3/README.md)) |         한자실력급수         | 2004  | 4998  | \<3급><br>(1,301)  |
-|   4   |                   [대한상공회의소](2_ko/korean_hanja/test_4/README.md)                   |        상공회의소한자         | 2004  | 4908  | \<3급><br>(1,800)  |
-|   5   |                  [한국평생교육평가원](2_ko/korean_hanja/test_5/README.md)                  |         한국한자검정         | 2006  | 3500  | \<준3급><br>(1,500) |
-|   6   |                  [한국정보관리협회](2_ko/korean_hanja/test_6/README.md)                   |         한자어능력          | 2007  | 3499  | \<3급><br>(1,800)  |
+|   1   |                    [한국어문회](test_1/README.md)                    | 한자능력급수<br>(전국한자능력검정시험) | 1992  | 5978  | \<준3급><br>(1,500) |
+|   2   |                    [대한검정회](test_2/README.md)                    |        한자급수자격검정        | 1996  | 4999  | \<준2급><br>(1,500) |
+|   3   | [한국한자실력평가원](test_3/README.md)<br>([한자교육진흥회](test_3/README.md)) |         한자실력급수         | 2004  | 4998  | \<3급><br>(1,301)  |
+|   4   |                   [대한상공회의소](test_4/README.md)                   |        상공회의소한자         | 2004  | 4908  | \<3급><br>(1,800)  |
+|   5   |                  [한국평생교육평가원](test_5/README.md)                  |         한국한자검정         | 2006  | 3500  | \<준3급><br>(1,500) |
+|   6   |                  [한국정보관리협회](test_6/README.md)                   |         한자어능력          | 2007  | 3499  | \<3급><br>(1,800)  |
 
 ## Level-Based Table
 
