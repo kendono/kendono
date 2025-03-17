@@ -1,1 +1,1 @@
-# Home (Chinese)
+# Chinese Language
