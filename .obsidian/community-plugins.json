@@ -1,21 +1,8 @@
 [
   "lazy-plugins",
-  "obsidian-alias-from-heading",
-  "custom-font-loader",
-  "plugin-reloader",
-  "obsidian-editor-shortcuts",
-  "custom-sort",
-  "hide-folders",
   "open-vscode",
-  "terminal",
-  "css-editor",
-  "obsidian-export-image",
-  "obsidian-hider",
-  "homepage",
-  "unitade",
-  "codeblock-customizer",
   "webpage-html-export",
   "obsidian-enhancing-export",
-  "obsidian-link-converter",
-  "folder-notes"
+  "show-hidden-files",
+  "better-markdown-links"
 ]

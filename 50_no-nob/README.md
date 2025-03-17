@@ -1,2 +1,0 @@
-
-# Home (Norwegian Bokmål)

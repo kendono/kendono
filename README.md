@@ -1,49 +1,77 @@
 
 # Home
 
-| Priority | ID           | Entries                                                                    |
-| :------: | ------------ | -------------------------------------------------------------------------- |
-|    00    | `_`          | [Home (Default)](00_/README.md)                                            |
-|    00    | `_en`        | [Home (English)](00_en/README.md)                                          |
-|    01    | `_ko`        | [Home (Korean)](01_ko/README.md)                                           |
-|    01    | `_ko-kp`     | [Home (North Korean)](01_ko-kp/README.md)                                  |
-|    01    | `_ko-kr`     | [Home (South Korean)](01_ko-kr/README.md)                                  |
-|    02    | `_ja`        | [Home (Japanese)](02_ja/README.md)                                         |
-|    03    | `_zh`        | [Home (Chinese)](03_zh/README.md)                                          |
-|    03    | `_zh-cmn`    | [Home (Mandarin Chinese)](03_zh-cmn/README.md)                             |
-|    03    | `_zh-cmn-sc` | [Home (Mandarin Chinese, Simplified Characters)](03_zh-cmn-sc/README.md)   |
-|    03    | `_zh-cmn-tc` | [Home (Mandarin Chinese, Traditional Characters)](03_zh-cmn-tc/README.md)  |
-|    03    | `_zh-yue`    | [Home (Cantonese Chinese)](03_zh-yue/README.md)                            |
-|    03    | `_zh-yue-sc` | [Home (Cantonese Chinese, Simplified Characters)](03_zh-yue-sc/README.md)  |
-|    03    | `_zh-yue-tc` | [Home (Cantonese Chinese, Traditional Characters)](03_zh-yue-tc/README.md) |
-|    04    | `_vi`        | [Home (Vietnamese)](04_vi/README.md)                                       |
-|    05    | `_mn`        | [Home (Mongolian)](05_mn/README.md)                                        |
-|    05    | `_ru`        | [Home (Russian)](05_ru/README.md)                                          |
-|    05    | `_th`        | [Home (Thai)](05_th/README.md)                                             |
-|    05    | `_tr`        | [Home (Turkish)](05_tr/README.md)                                          |
-|    50    | `_cs`        | [Home (Czech)](50_cs/README.md)                                            |
-|    50    | `_de`        | [Home (German)](50_de/README.md)                                           |
-|    50    | `_es`        | [Home (Spanish)](50_es/README.md)                                          |
-|    50    | `_fr`        | [Home (French)](50_fr/README.md)                                           |
-|    50    | `_id`        | [Home (Indonesian)](50_id/README.md)                                       |
-|    50    | `_it`        | [Home (Italian)](50_it/README.md)                                          |
-|    50    | `_no-nno`    | [Home (Norwegian Nynorsk)](50_no-nno/README.md)                            |
-|    50    | `_no-nob`    | [Home (Norwegian Bokmål)](50_no-nob/README.md)                             |
-|    50    | `_pt`        | [Home (Portuguese)](50_pt/README.md)                                       |
-|    50    | `_uk`        | [Home (Ukrainian)](50_uk/README.md)                                        |
-|    99    | `_ar`        | [Home (Arabic)](99_ar/README.md)                                           |
-|    99    | `_bn`        | [Home (Bengali)](99_bn/README.md)                                          |
-|    99    | `_fa`        | [Home (Persian)](99_fa/README.md)                                          |
-|    99    | `_he`        | [Home (Hebrew)](99_he/README.md)                                           |
-|    99    | `_hi`        | [Home (Hindi)](99_hi/README.md)                                            |
-|    99    | `_mr`        | [Home (Marathi)](99_mr/README.md)                                          |
-|    99    | `_tl`        | [Home (Tagalog)](99_tl/README.md)                                          |
-|    99    | `_ur`        | [Home (Urdu)](99_ur/README.md)                                             |
+| ID             | Entries                                                                    |
+| -------------- | -------------------------------------------------------------------------- |
+| `00_`          | [Home (Default)](Default/README.md)                                            |
+| `00_en`        | [Home (English)](<./English Language/README.md>)                                          |
+| `01_ko`        | [Home (Korean)](<./Korean Language/README.md>)                                           |
+| `01_ko-kp`     | [Home (North Korean)](<./Korean, North Korea/README.md>)                                  |
+| `01_ko-kr`     | [Home (South Korean)](<./Korean, South Korea/README.md>)                                  |
+| `02_ja`        | [Home (Japanese)](<./Japanese Language/README.md>)                                         |
+| `03_zh`        | [Home (Chinese)](<./Chinese Language/README.md>)                                          |
+| `03_zh-cmn`    | [Home (Mandarin Chinese)](<./Chinese, Mandarin/README.md>)                             |
+| `03_zh-cmn-sc` | [Home (Mandarin Chinese, Simplified Characters)](<./Chinese, China/README.md>)   |
+| `03_zh-cmn-tc` | [Home (Mandarin Chinese, Traditional Characters)](<./Chinese, Taiwan/README.md>)  |
+| `03_zh-yue`    | [Home (Cantonese Chinese)](<./Chinese, Hong Kong/README.md>)                            |
+| `03_zh-yue-sc` | [Home (Cantonese Chinese, Simplified Characters)](<./Chinese, Cantonese, Simplified Characters/README.md>)  |
+| `03_zh-yue-tc` | [Home (Cantonese Chinese, Traditional Characters)](<./Chinese, Cantonese, Traditional Characters/README.md>) |
+| `04_vi`        | [Home (Vietnamese)](<./Vietnamese Language/README.md>)                                       |
+| `05_mn`        | [Home (Mongolian)](<./Mongolian Language/README.md>)                                        |
+| `05_ru`        | [Home (Russian)](<./Russian Language/README.md>)                                          |
+| `05_th`        | [Home (Thai)](<./Thai Language/README.md>)                                             |
+| `05_tr`        | [Home (Turkish)](05_tr/README.md)                                          |
+| `50_cs`        | [Home (Czech)](50_cs/README.md)                                            |
+| `50_de`        | [Home (German)](<./German Language/README.md>)                                           |
+| `50_es`        | [Home (Spanish)](<./Spanish Language/README.md>)                                          |
+| `50_fr`        | [Home (French)](<./French Language/README.md>)                                           |
+| `50_id`        | [Home (Indonesian)](50_id/README.md)                                       |
+| `50_it`        | [Home (Italian)](<./Italian Language/README.md>)                                          |
+| `50_no-nno`    | [Home (Norwegian Nynorsk)](50_no-nno/README.md)                            |
+| `50_no-nob`    | [Home (Norwegian Bokmål)](50_no-nno/50_no-nob/README.md)                             |
+| `50_pt`        | [Home (Portuguese)](<./Portuguese Language/README.md>)                                       |
+| `50_uk`        | [Home (Ukrainian)](50_uk/README.md)                                        |
+| `99_ar`        | [Home (Arabic)](50_uk/99_ar/README.md)                                           |
+| `99_bn`        | [Home (Bengali)](50_uk/99_ar/99_bn/README.md)                                          |
+| `99_fa`        | [Home (Persian)](50_uk/99_ar/99_bn/99_fa/README.md)                                          |
+| `99_he`        | [Home (Hebrew)](50_uk/99_ar/99_bn/99_fa/99_he/README.md)                                           |
+| `99_hi`        | [Home (Hindi)](50_uk/99_ar/99_bn/99_fa/99_he/99_hi/README.md)                                            |
+| `99_mr`        | [Home (Marathi)](99_mr/README.md)                                          |
+| `99_tl`        | [Home (Tagalog)](99_tl/README.md)                                          |
+| `99_ur`        | [Home (Urdu)](50_uk/99_ar/99_bn/99_fa/99_he/99_hi/99_ur/README.md)                                             |
 
-## Contents
+## Documents
 
-| ID   | Entries             |
-| ---- | ------------------- |
-| `c`  | [C](c/README.md)     |
-| `cc` | [C++](cc/README.md)  |
-| `rs` | [Rust](rs/README.md) |
+| ID            | Entries                     |
+| ------------- | --------------------------- |
+| `_android`     | Android                     |
+| `_c`           | [C](<./c/README.md>)           |
+| `_cc`          | [C++](<./cc/README.md>)        |
+| `_cs`          | [CSharp](<./cs/README.md>)     |
+| `_git`         | Git                         |
+| `_github`      | GitHub                      |
+| `_html`        | [HTML](<./html/README.md>)     |
+| `_ios`         | iOS                         |
+| `_js`          | [JavaScript](<./js/README.md>) |
+| `_linux`       | Linux                       |
+| `_m`           | Objective-C                 |
+| `_macos`       | macOS                       |
+| `_md`          | [Markdown](<./md/README.md>)   |
+| `_mm`          | Objective-C++               |
+| `_obsidian-md` | Obsidian.md                 |
+| `_py`          | Python                      |
+| `_r`           | R                           |
+| `_rs`          | [Rust](<./rs/README.md>)       |
+| `_ts`          | [TypeScript](<./ts/README.md>) |
+| `_ue`          | Unreal Engine               |
+| `_unity`       | Unity Engine                |
+| `_unix`        | Unix                        |
+| `_vs`          | Visual Studio               |
+| `_vscode`      | VS Code                     |
+| `_windows`     | Windows                     |
+
+## Workspace
+
+| ID    | Entries |
+| ----- | ------- |
+| `src` |         |

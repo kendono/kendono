@@ -1,1 +1,0 @@
-# Home (Mandarin Chinese)

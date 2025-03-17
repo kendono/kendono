@@ -5,59 +5,59 @@
     "shortDelaySeconds": 1,
     "longDelaySeconds": 2,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": null,
+    "defaultStartupType": "short",
     "showDescriptions": true,
     "plugins": {
       "obsidian-editor-shortcuts": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "custom-sort": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "custom-font-loader": {
         "startupType": "instant"
       },
       "obsidian-hider": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "open-vscode": {
         "startupType": "instant"
       },
       "plugin-reloader": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "show-hidden-files": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "terminal": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "vscode-editor": {
         "startupType": "short"
       },
       "obsidian-alias-from-heading": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "css-editor": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "folder-notes": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "homepage": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "codeblock-customizer": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "unitade": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "hide-folders": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-export-image": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-enhancing-export": {
         "startupType": "instant"
@@ -66,7 +66,10 @@
         "startupType": "instant"
       },
       "obsidian-link-converter": {
-        "startupType": "instant"
+        "startupType": "short"
+      },
+      "obsidian-custom-file-extensions-plugin": {
+        "startupType": "short"
       }
     }
   }
