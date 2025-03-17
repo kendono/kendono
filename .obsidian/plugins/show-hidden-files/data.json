@@ -5,11 +5,5 @@
   "openChangelogOnUpdate": false,
   "showConfigurationFolder": true,
   "showHiddenFiles": true,
-  "showingRules": [
-    "+/",
-    "-.git",
-    "-.trash",
-    "-.target",
-    "-/^(?!.*\\*\\/\\.target).*$/"
-  ]
+  "showingRules": []
 }
