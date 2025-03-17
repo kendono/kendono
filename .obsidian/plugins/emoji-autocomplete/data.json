@@ -4,10 +4,10 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
-    "construction",
-    "building_construction",
     "cross_mark",
     "white_check_mark",
+    "construction",
+    "building_construction",
     "hammer_and_wrench",
     "ballot_box_with_check",
     "heavy_check_mark",

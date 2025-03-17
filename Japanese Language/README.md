@@ -3,4 +3,4 @@
 
 | Entries                                        | Status |
 | ---------------------------------------------- | :----: |
-| [Japanese Kanji](<./japanese_kanji/README.md>) |  🛠️   |
+| [Japanese Kanji](<./Japanese Kanji/README.md>) |  🛠️   |

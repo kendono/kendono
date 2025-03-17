@@ -73,6 +73,18 @@
       },
       "better-markdown-links": {
         "startupType": "short"
+      },
+      "emoji-autocomplete": {
+        "startupType": "short"
+      },
+      "emoji-shortcodes": {
+        "startupType": "short"
+      },
+      "latex-to-unicode": {
+        "startupType": "short"
+      },
+      "unicode-search": {
+        "startupType": "short"
       }
     }
   }
