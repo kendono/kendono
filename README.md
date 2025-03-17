@@ -36,4 +36,6 @@
 
 ## Software Projects
 
-- [Hello](<./hello/README.md>)
+| ID      | Entries                      |
+| ------- | ---------------------------- |
+| `hello` | [Hello](<./hello/README.md>) |
