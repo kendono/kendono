@@ -64,6 +64,9 @@
       },
       "webpage-html-export": {
         "startupType": "instant"
+      },
+      "obsidian-link-converter": {
+        "startupType": "instant"
       }
     }
   }
