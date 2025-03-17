@@ -1,10 +1,10 @@
 
 # Home
 
-- `kendono`
-	- https://github.com/kendono
-- `.target`
-	- https://kendono.vercel.app
+| Repository | Deployment                 |
+| ---------- | -------------------------- |
+| `kendono`  | https://github.com/kendono |
+| `.target`  | https://kendono.vercel.app |
 
 ## Markdown Documents
 
