@@ -1,2 +1,0 @@
-
-# English, United States
