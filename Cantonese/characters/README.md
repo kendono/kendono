@@ -1,2 +1,0 @@
-
-# Hong Kong Characters
