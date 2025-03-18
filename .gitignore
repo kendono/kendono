@@ -6,4 +6,8 @@
 /.trash
 
 **/.target
+**/target
+
 **/Cargo.lock
+
+

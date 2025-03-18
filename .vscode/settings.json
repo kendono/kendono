@@ -1,4 +1,8 @@
 {
     "explorer.sortOrder": "filesFirst",
-    "explorer.sortOrderLexicographicOptions": "unicode"
+    "explorer.sortOrderLexicographicOptions": "unicode",
+    "files.exclude": {
+        "**/Cargo.lock": true,
+        "**/target": true
+    }
 }

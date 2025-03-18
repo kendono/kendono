@@ -1,0 +1,16 @@
+
+[package]
+name = "cargo"
+version = "0.1.0"
+edition = "2021"
+default-run = "_"
+
+[[bin]]
+name = "_"
+path = "_bin/rs/_.rs"
+
+[lib]
+name = "lib"
+path = "_src/rs/_.rs"
+
+[dependencies]
