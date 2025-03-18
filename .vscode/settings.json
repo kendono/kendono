@@ -4,5 +4,6 @@
     "files.exclude": {
         "**/Cargo.lock": true,
         "**/target": true
-    }
+    },
+    "explorer.compactFolders": false
 }
