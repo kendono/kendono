@@ -40,31 +40,31 @@
 | `_web` | [Web](<./_web/README.md>) |   ❌    | WebView Sources     |
 - Dev Env Plans:
 
-| Key    | Status | Description             |
-| ------ | :----: | ----------------------- |
-| c_cc   |   ❌    | C & C++                 |
-| cargo  |   ❌    | Supports cargo          |
-| cmake  |   ❌    | Supports cmake          |
-| cs     |   ❌    | CSharp                  |
-| docker |   ❌    | Supports docker         |
-| js_ts  |   ❌    | JavaScript & TypeScript |
-| os     |   ❌    | Windows, Linux(Ubuntu)  |
-| py     |   ❌    | Python                  |
-| r      |   ❌    | R                       |
-| vcpkg  |   ❌    | vcpkg(cmake)            |
+| Key      | Status | Description             |
+| -------- | :----: | ----------------------- |
+| `c_cc`   |   ❌    | C & C++                 |
+| `cargo`  |   ❌    | Supports cargo          |
+| `cmake`  |   ❌    | Supports cmake          |
+| `cs`     |   ❌    | CSharp                  |
+| `docker` |   ❌    | Supports docker         |
+| `js_ts`  |   ❌    | JavaScript & TypeScript |
+| `os`     |   ❌    | Windows, Linux(Ubuntu)  |
+| `py`     |   ❌    | Python                  |
+| `r`      |   ❌    | R                       |
+| `vcpkg`  |   ❌    | vcpkg(cmake)            |
 
 
 - Feature Plans:
 
-| Key | Status | Description                                                                                                                                                            |
-| --- | :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ai  |   ❌    | AI-based project & system analysis and management.                                                                                                                     |
-| app |   ❌    | Markdown editing features like Obsidian.                                                                                                                               |
-| cmd |   ❌    | Convenient terminal commands.                                                                                                                                          |
-| cms |   ❌    | App-like editing features using webview.                                                                                                                               |
-| ssg |   ❌    | Publishing markdown documents to HTML website.<br>Specifically, Obsidian vault to `.target` repository.<br>If it's achieved, the website should be visible via Vercel. |
-| sys |   ❌    | System dev env management.                                                                                                                                             |
-| web |   ❌    | Self-hosted http web server.                                                                                                                                           |
+| Key   | Status | Description                                                                                                                                                            |
+| ----- | :----: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ai`  |   ❌    | AI-based project & system analysis and management.                                                                                                                     |
+| `app` |   ❌    | Markdown editing features like Obsidian.                                                                                                                               |
+| `cmd` |   ❌    | Convenient terminal commands.                                                                                                                                          |
+| `cms` |   ❌    | App-like editing features using webview.                                                                                                                               |
+| `ssg` |   ❌    | Publishing markdown documents to HTML website.<br>Specifically, Obsidian vault to `.target` repository.<br>If it's achieved, the website should be visible via Vercel. |
+| `sys` |   ❌    | System dev env management.                                                                                                                                             |
+| `web` |   ❌    | Self-hosted http web server.                                                                                                                                           |
 
 ## Software Projects
 
