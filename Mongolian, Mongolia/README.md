@@ -1,2 +1,0 @@
-
-# Mongolian, Mongolia
