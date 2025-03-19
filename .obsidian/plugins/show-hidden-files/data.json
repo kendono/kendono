@@ -5,5 +5,7 @@
   "openChangelogOnUpdate": false,
   "showConfigurationFolder": true,
   "showHiddenFiles": true,
-  "showingRules": []
+  "showingRules": [
+    ".source"
+  ]
 }
