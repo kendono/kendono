@@ -5,5 +5,9 @@
         "**/Cargo.lock": true,
         "**/target": true
     },
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 16,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.tree.expandMode": "doubleClick",
+    "git.countBadge": "off"
 }
