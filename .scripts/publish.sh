@@ -1,5 +1,5 @@
 
-cd .website
+cd $ROOT/.target
 
 if [ $# -eq 0 ]; then
     msg="default commit"
