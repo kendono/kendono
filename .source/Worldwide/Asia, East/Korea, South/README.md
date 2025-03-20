@@ -1,5 +1,5 @@
 
-# Korean, South Korea
+# South Korea
 
 |  분류   | Korean | English                    | Han Characters |
 | :---: | ------ | -------------------------- | -------------- |
