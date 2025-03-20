@@ -5,5 +5,5 @@ else
     path="$1"
 fi
 
-cd $path/_projs/c
+cd $ROOT/$path/_projs/c
 cmake.sh _
