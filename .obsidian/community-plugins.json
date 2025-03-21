@@ -1,7 +1,7 @@
 [
   "lazy-plugins",
-  "open-vscode",
   "obsidian-enhancing-export",
   "show-hidden-files",
-  "custom-font-loader"
+  "custom-font-loader",
+  "open-vscode"
 ]
